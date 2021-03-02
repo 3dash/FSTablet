@@ -43,17 +43,17 @@
     {
       "path": "Build/Packages/td-fstablet/layout.json",
       "size": 125,
-      "date": 132591924134414406
+      "date": 132591931070163910
     },
     {
       "path": "Build/Packages/td-fstablet/manifest.json",
       "size": 293,
-      "date": 132591927550489662
+      "date": 132591946746896128
     },
     {
       "path": "Build/Packages/td-fstablet/Build/td-fstablet.spb",
       "size": 663,
-      "date": 132591924134265610
+      "date": 132591931070034960
     },
     {
       "path": "Build/PackageSources/td-fstablet.xml",
@@ -103,22 +103,22 @@
     {
       "path": "Build/_Temp/_timestamps/Output_0/td-fstablet/td-fstablet.xml",
       "size": 85,
-      "date": 132591924134315205
+      "date": 132591931070079589
     },
     {
       "path": "Build/_Temp/_timestamps/Output_0/td-fstablet/td-fstablet_output.xml",
       "size": 179,
-      "date": 132591924134359847
+      "date": 132591931070119275
     },
     {
       "path": "html_ui/InGamePanels/FSTablet/FSTablet.css",
-      "size": 1538,
-      "date": 132591876213770000
+      "size": 2030,
+      "date": 132591973415398111
     },
     {
       "path": "html_ui/InGamePanels/FSTablet/FSTablet.html",
-      "size": 1710,
-      "date": 132591930361631620
+      "size": 3268,
+      "date": 132591971313153067
     },
     {
       "path": "html_ui/InGamePanels/FSTablet/FSTablet.js",
@@ -131,6 +131,46 @@
       "date": 132591912465292479
     },
     {
+      "path": "html_ui/InGamePanels/FSTablet/Icons/Charts.png",
+      "size": 3029,
+      "date": 132591951660902011
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/Icons/Checklist.png",
+      "size": 3990,
+      "date": 132591952616548926
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/Icons/Database.png",
+      "size": 3239,
+      "date": 132591951814639857
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/Icons/Flight Plan.png",
+      "size": 2792,
+      "date": 132591952023718048
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/Icons/PDFs.png",
+      "size": 2765,
+      "date": 132591952318365912
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/Icons/Services.png",
+      "size": 1998,
+      "date": 132591951021165717
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/Icons/Settings.png",
+      "size": 3831,
+      "date": 132591951436899747
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/UI Elements/Home_Button.png",
+      "size": 1655,
+      "date": 132591971247837248
+    },
+    {
       "path": "html_ui/Textures/Menu/toolbar/ICON_TOOLBAR_3DASH-FSTABLET.svg",
       "size": 340,
       "date": 132591927113519668
@@ -138,7 +178,7 @@
     {
       "path": "InGamePanels/td-fstablet.spb",
       "size": 663,
-      "date": 132591924134265610
+      "date": 132591931070034960
     }
   ]
 }

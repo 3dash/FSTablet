@@ -1,4 +1,4 @@
-﻿/** This mixin makes a single line element fit exactly on the Roboto font for easier integration. */
+﻿/* Ingame UI Stuff */
 ingame-ui#CustomPanel {
   display:flex;
   flex-direction:column;
@@ -6,14 +6,12 @@ ingame-ui#CustomPanel {
   justify-content: center;
   height:100% !important;
   width: 100% !important;
-  /*border: 2px solid blue !important;*/
 }
 ingame-ui#CustomPanel #CustomPanelWrap {
   display: flex;
   flex-direction: column;
   width: 100% !important;
   height: 100% !important;
-  /*border: 2px solid red !important;*/
   min-height: 0;
   min-width: 0;
   overflow:hidden;
@@ -31,7 +29,6 @@ ingame-ui#CustomPanel #Footer.hidden {
   display: none;
 }
 ingame-ui#CustomPanel .ingameUiContent {
-  /*border: 2px solid green !important;*/
   display: flex !important;
   flex-direction: column !important;
   width: 100% !important;
@@ -43,7 +40,6 @@ ingame-ui#CustomPanel .ingameUiContent {
   flex: 1 1 auto !important;
 }
 ingame-ui#CustomPanel .ingameUiWrapper {
-  /*border: 2px solid yellow !important;*/
   display: flex !important;
   flex-direction: column !important;
   width: 100% !important;
@@ -53,4 +49,62 @@ ingame-ui#CustomPanel .ingameUiWrapper {
   overflow:hidden !important;
   align-items: stretch !important;
   flex: 1 1 auto !important;
+}
+/* FSTablet Stuff */
+h1, p, a {
+  margin: 10px;
+  color: white;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+
+.tablet-header {
+  width: 800px;
+  border: 0;
+  background-color: #262626;
+  color: white;
+  font-family: sans-serif;
+}
+
+#time_provider {
+  margin: 0;
+  margin-left: 5px;
+  vertical-align: middle;
+  line-height: 25px;
+}
+
+.tablet-body {
+  width: 800px;
+  height: 525px;
+  border: 0;
+  background-color: #404040;
+  color: white;
+  overflow-y: auto;
+}
+
+#appIcon {
+  width: 100px;
+  height: 120px;
+  float: left;
+  margin: 25px;
+
+  text-align: center;
+  align-self: center;
+  width: 100px;
+  font-family: sans-serif;
+}
+
+.system-controls {
+  width: 800px;
+  height: 50px;
+  border: 0;
+  background-color: #262626;
+  color: white;
+}
+
+.system-controls img {
+  margin-top: 2px;
+  margin-left: 377px;
+  margin-right: 377px;
 }

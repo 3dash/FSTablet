@@ -1,0 +1,144 @@
+{
+  "content": [
+    {
+      "path": ".vs/ProjectSettings.json",
+      "size": 37,
+      "date": 132591823798371715
+    },
+    {
+      "path": ".vs/slnx.sqlite",
+      "size": 90112,
+      "date": 132591831559090677
+    },
+    {
+      "path": ".vs/VSWorkspaceState.json",
+      "size": 378,
+      "date": 132591831557200918
+    },
+    {
+      "path": ".vs/3Dash-FSTablet/config/applicationhost.config",
+      "size": 76175,
+      "date": 132554695152467610
+    },
+    {
+      "path": ".vs/3Dash-FSTablet/v16/.suo",
+      "size": 35328,
+      "date": 132591831556450000
+    },
+    {
+      "path": "Build/icon.png",
+      "size": 176,
+      "date": 132591828308147968
+    },
+    {
+      "path": "Build/td-fstablet.xml",
+      "size": 258,
+      "date": 132591839243087090
+    },
+    {
+      "path": "Build/PackageDefinitions/td-fstablet.xml",
+      "size": 592,
+      "date": 132591837029349998
+    },
+    {
+      "path": "Build/Packages/td-fstablet/layout.json",
+      "size": 125,
+      "date": 132591924134414406
+    },
+    {
+      "path": "Build/Packages/td-fstablet/manifest.json",
+      "size": 293,
+      "date": 132591927550489662
+    },
+    {
+      "path": "Build/Packages/td-fstablet/Build/td-fstablet.spb",
+      "size": 663,
+      "date": 132591924134265610
+    },
+    {
+      "path": "Build/PackageSources/td-fstablet.xml",
+      "size": 518,
+      "date": 132591930626052551
+    },
+    {
+      "path": "Build/_Temp/_TimeStampID.xml",
+      "size": 123,
+      "date": 132591839630727008
+    },
+    {
+      "path": "Build/_Temp/_metadata/td-fstablet/td-fstablet.xml",
+      "size": 152,
+      "date": 132591839634817370
+    },
+    {
+      "path": "Build/_Temp/_Temp/_TimeStampID.xml",
+      "size": 212,
+      "date": 132591882818226135
+    },
+    {
+      "path": "Build/_Temp/_Temp/_metadata/td-fstablet/td-fstablet.xml",
+      "size": 176,
+      "date": 132591882818791051
+    },
+    {
+      "path": "Build/_Temp/_Temp/_timestamps/Output_0/td-fstablet/td-fstablet.xml",
+      "size": 85,
+      "date": 132591843619175001
+    },
+    {
+      "path": "Build/_Temp/_Temp/_timestamps/Output_0/td-fstablet/td-fstablet_output.xml",
+      "size": 177,
+      "date": 132591866346791889
+    },
+    {
+      "path": "Build/_Temp/_Temp/_timestamps/Output_1/td-fstablet/td-fstablet.xml",
+      "size": 85,
+      "date": 132591882818506301
+    },
+    {
+      "path": "Build/_Temp/_Temp/_timestamps/Output_1/td-fstablet/td-fstablet_output.xml",
+      "size": 177,
+      "date": 132591882818741756
+    },
+    {
+      "path": "Build/_Temp/_timestamps/Output_0/td-fstablet/td-fstablet.xml",
+      "size": 85,
+      "date": 132591924134315205
+    },
+    {
+      "path": "Build/_Temp/_timestamps/Output_0/td-fstablet/td-fstablet_output.xml",
+      "size": 179,
+      "date": 132591924134359847
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/FSTablet.css",
+      "size": 1538,
+      "date": 132591876213770000
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/FSTablet.html",
+      "size": 1710,
+      "date": 132591930361631620
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/FSTablet.js",
+      "size": 5735,
+      "date": 132591904558675344
+    },
+    {
+      "path": "html_ui/InGamePanels/FSTablet/FSTablet_Mockup.png",
+      "size": 50857,
+      "date": 132591912465292479
+    },
+    {
+      "path": "html_ui/Textures/Menu/toolbar/ICON_TOOLBAR_3DASH-FSTABLET.svg",
+      "size": 340,
+      "date": 132591927113519668
+    },
+    {
+      "path": "InGamePanels/td-fstablet.spb",
+      "size": 663,
+      "date": 132591924134265610
+    }
+  ]
+}

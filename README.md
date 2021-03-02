@@ -3,5 +3,7 @@ EFB for MSFS, inspired by [AviTab for X-Plane](https://github.com/fpw/avitab). T
 
 If you wish to help out, let me know on our [discord](https://discord.gg/FU8RzASuJE).
 
+
+**This is not ready for use! Dont expect anything to work!**
 ## Credits
 A lot of showing the tablet is based off of [bymaximus/msfs2020-toolbar-window-template](https://github.com/bymaximus/msfs2020-toolbar-window-template).

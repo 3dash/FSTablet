@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<SimBase.Document Type="InGamePanels" version="1,0">
+  <Filename>InGamePanel_CustomPanel.spb</Filename>
+  <InGamePanels.InGamePanelDefinition id="PANEL_FSTABLET" Name="FSTablet" url="html_UI/ingamePanels/FSTablet/FSTablet.html" resizeDirections="Both" minWidth="40" minHeight="30" defaultWidth="80" defaultHeight="60" defaultTop="33" defaultRight="2" icon="ICON_TOOLBAR_3DASH-FSTABLET" buttonVisible="true">
+  </InGamePanels.InGamePanelDefinition>
+</SimBase.Document>
